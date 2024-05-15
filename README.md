@@ -1,4 +1,4 @@
-# **Scorpii**
+# **Scorpii Module**
 
 ## How To Use
 
